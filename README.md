@@ -33,10 +33,10 @@ Helloworld的创建
 
 ![11](https://raw.githubusercontent.com/FOOLBUTDILIGENT/images/master/helloworld/%E5%9B%BE%E7%89%8710.png)
 
-
+结果如下
 ![12](https://raw.githubusercontent.com/FOOLBUTDILIGENT/images/master/helloworld/%E5%9B%BE%E7%89%8711.png)
-那么，使用home键呢
+
 
 ![13](https://raw.githubusercontent.com/FOOLBUTDILIGENT/images/master/helloworld/%E5%9B%BE%E7%89%8712.png)
-按退出键呢 
+
 本次实验就是这样了。
