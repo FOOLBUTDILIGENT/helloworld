@@ -21,21 +21,22 @@ Helloworld的创建
 
 
 ![8](https://raw.githubusercontent.com/FOOLBUTDILIGENT/images/master/helloworld/%E5%9B%BE%E7%89%877.png)
+
+![9](https://raw.githubusercontent.com/FOOLBUTDILIGENT/images/master/helloworld/%E5%9B%BE%E7%89%878.png)
 验证生命周期
 打开这个app后，我们想要知道这个软件什么时候启动什么时候结束，什么时候在后台运作
 就需要在Mainactivity.java中做文章。
 首先，在其中按下图输入代码：
 
-![9](https://raw.githubusercontent.com/FOOLBUTDILIGENT/images/master/helloworld/%E5%9B%BE%E7%89%878.png)
-
 ![10](https://raw.githubusercontent.com/FOOLBUTDILIGENT/images/master/helloworld/%E5%9B%BE%E7%89%879.png)
-这时我们再在模拟器中打开hellowrld app，并打开下面栏目中的Logcat发现：
+
 
 ![11](https://raw.githubusercontent.com/FOOLBUTDILIGENT/images/master/helloworld/%E5%9B%BE%E7%89%8710.png)
-那么，使用home键呢
+
 
 ![12](https://raw.githubusercontent.com/FOOLBUTDILIGENT/images/master/helloworld/%E5%9B%BE%E7%89%8711.png)
-按退出键呢 
+那么，使用home键呢
 
 ![13](https://raw.githubusercontent.com/FOOLBUTDILIGENT/images/master/helloworld/%E5%9B%BE%E7%89%8712.png)
+按退出键呢 
 本次实验就是这样了。
