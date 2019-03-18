@@ -19,7 +19,6 @@ Helloworld的创建
 ![6](https://raw.githubusercontent.com/FOOLBUTDILIGENT/images/master/helloworld/%E5%9B%BE%E7%89%875.png)
 打开模拟器中的对应app就成功了
 
-![7](https://raw.githubusercontent.com/FOOLBUTDILIGENT/images/master/helloworld/%E5%9B%BE%E7%89%876.png)
 
 ![8](https://raw.githubusercontent.com/FOOLBUTDILIGENT/images/master/helloworld/%E5%9B%BE%E7%89%877.png)
 验证生命周期
